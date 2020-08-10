@@ -9,11 +9,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/jodiss-tribhu-9676a8173/" />][linkedin]
+[<img align="left" alt="Jodiss Tribhu | LinkedIn" width="22px" src="https://www.linkedin.com/in/jodiss-tribhu-9676a8173/" />][linkedin]
 <br />
 
 ### Languages and Tools:
 
 [<img align="left" alt="Android Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Breezeicons-apps-48-android-studio.svg" />][webdevplaylist]
+
+
 <br />
 <br />
