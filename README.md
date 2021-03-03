@@ -21,7 +21,7 @@
 
 <img align="left" alt="Javascript" width="26px" src="https://mpng.subpng.com/20181209/yvf/kisspng-javascript-angularjs-node-js-computer-icons-clip-a-clipart-js-5c0d82819a4963.228658921544389249632.jpg" /> Javascript
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harishsg99&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jodtribhu&layout=compact)]
 
 
 <br />
