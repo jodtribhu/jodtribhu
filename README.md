@@ -24,3 +24,5 @@
 
 
 <br />
+
+[![Jodiss Tribhu GitHub stats](https://github-readme-stats.vercel.app/api?username=jodtribhu)](https://github.com/jodtribhu/github-readme-stats)
