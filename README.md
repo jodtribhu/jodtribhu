@@ -20,7 +20,7 @@ Reddit: https://www.reddit.com/user/freakma-shadow
 <br />
   - Express Js
 <br />
- - MySQL
+  - MySQL
 <br />
  - MongoDB
 <br />
