@@ -18,7 +18,7 @@ Reddit: https://www.reddit.com/user/freakma-shadow
 ### Languages and Tools:
   - Vue JS
 <br />
-  Express Js
+  - Express Js
 <br />
  - MySQL
 <br />
