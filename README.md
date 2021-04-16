@@ -16,20 +16,13 @@ Reddit: https://www.reddit.com/user/freakma-shadow
 </br>
 
 ### Languages and Tools:
-  - Vue JS
-<br />
-  - Express Js
-<br />
-  - MySQL
-<br />
- - MongoDB
-<br />
- - Android Development
-<br />
- - Java
-<br />
- - Python
-<br />
- - JavaScript
-<br />
+  -Vue JS
+  -Express Js
+  -MySQL
+  -MongoDB
+  -Android Development
+  -Java
+  -Python
+  -JavaScript
+
 
