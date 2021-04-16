@@ -8,18 +8,28 @@
 - ⚡ Fun fact: I love to do 3d drawings 
 
 ### Connect with me:
-<img align="left" alt="Jodiss Tribhu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />Jodiss Tribhu
-
-<img align="left" alt="Jodiss Tribhu | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/New_Logo_Gmail.svg/1280px-New_Logo_Gmail.svg.png" />jodiss.tri@gmail.com
+Linkedin:https://www.linkedin.com/in/jodiss-tribhu-9676a8173/
 <br />
+Email:jodiss.tri@gmail.com
+<br />
+Reddit:https://www.reddit.com/user/freakma-shadow
+</br>
+Medium:https://jodiss-tri.medium.com/
 ### Languages and Tools:
 Vue JS
+<br />
 Express Js
+<br />
 MySQL
+<br />
 MongoDB
+<br />
 Android Development
+<br />
 Java
+<br />
 Python
+<br />
 JavaScript
 <br />
 
