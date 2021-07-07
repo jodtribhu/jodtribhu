@@ -1,6 +1,6 @@
 ### Hi there, I'm Jodiss Tribhu  👋
 
-## I'm a Student and a Android Developer!
+## I'm a Web and a Android Developer!
 - 🏫 I’m currently studying at Amrita Vishwa Vidyapeetham as a 3rd Year Btech Computer Science student
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to learn more about android development and also try my hands on web designing.
