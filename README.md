@@ -26,5 +26,5 @@ Reddit: https://www.reddit.com/user/freakma-shadow
   - JavaScript
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jodtribhu&show_icons=true&theme=radical)
+  ![Jodiss Tribhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jodtribhu&show_icons=true&theme=radical)
 
