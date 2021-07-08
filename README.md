@@ -26,3 +26,4 @@ Reddit: https://www.reddit.com/user/freakma-shadow
   - JavaScript
 
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jodtribhu)](https://github.com/anuraghazra/github-readme-stats)
