@@ -10,6 +10,7 @@ Linkedin: https://www.linkedin.com/in/jodiss-tribhu-9676a8173/
 <br />
 Email: jodiss.tri@gmail.com
 <br />
+Stackoverflow: https://stackoverflow.com/users/14906807/doj
 
 ### Languages and Tools:
   - Vue.js
