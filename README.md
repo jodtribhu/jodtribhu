@@ -12,14 +12,16 @@ Email: jodiss.tri@gmail.com
 <br />
 
 ### Languages and Tools:
-  - Vue JS
-  - Express Js
-  - MySQL
+  - Vue.js
+  - Express.js
+  - Passport.js
   - MongoDB
-  - Android Development
+  - MySQL
+  - Android Development(Java)
+  - JavaScript
   - Java
   - Python
-  - JavaScript
+  
 
 ### Medium Articles:
 https://jodiss-tri.medium.com/build-a-login-system-in-node-js-using-passport-js-and-mysql-52667cf3cc40
