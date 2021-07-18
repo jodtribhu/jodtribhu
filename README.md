@@ -26,7 +26,7 @@ Email: jodiss.tri@gmail.com
 ### Medium Articles:
 - https://jodiss-tri.medium.com/build-a-login-system-in-node-js-using-passport-js-and-mysql-52667cf3cc40
 
-#### Disable Touch has been featured in :
+#### My android app Disable Touch has been featured in :
   - HowToMen : "Best Android Apps - July 2021!" (https://www.youtube.com/watch?v=hJhd89roZzE&t=58s)
   - Anubhav Roy: "10 AMAZING Android Apps You Need To Try//July 2021!" (https://www.youtube.com/watch?v=hJhd89roZzE&t=58s)
   - Nextpit's Article "Our 5 free and paid Android/iOS applications of the week" (https://www.nextpit.com/free-and-paid-android-ios-applications-of-the-week)
