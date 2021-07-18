@@ -24,7 +24,7 @@ Email: jodiss.tri@gmail.com
   
 
 ### Medium Articles:
-https://jodiss-tri.medium.com/build-a-login-system-in-node-js-using-passport-js-and-mysql-52667cf3cc40
+- https://jodiss-tri.medium.com/build-a-login-system-in-node-js-using-passport-js-and-mysql-52667cf3cc40
 
 #### Disable Touch has been featured in :
   - HowToMen : "Best Android Apps - July 2021!" (https://www.youtube.com/watch?v=hJhd89roZzE&t=58s)
