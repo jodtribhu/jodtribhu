@@ -12,8 +12,7 @@ Linkedin: https://www.linkedin.com/in/jodiss-tribhu-9676a8173/
 <br />
 Email: jodiss.tri@gmail.com
 <br />
-Reddit: https://www.reddit.com/user/freakma-shadow
-</br>
+
 ### Languages and Tools:
   - Vue JS
   - Express Js
