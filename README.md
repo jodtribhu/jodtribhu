@@ -30,7 +30,7 @@ Stackoverflow: https://stackoverflow.com/users/14906807/doj
 #### My android app Disable Touch has been featured in :
   - HowToMen : "Best Android Apps - July 2021!" (https://www.youtube.com/watch?v=hJhd89roZzE&t=58s)
   - Anubhav Roy: "10 AMAZING Android Apps You Need To Try//July 2021!" (https://www.youtube.com/watch?v=hJhd89roZzE&t=58s)
-  - Tech Borban: "How to Disable Touch Screen on Android Phone | Disable Touch Application Review | Latest Android App"(https://www.youtube.com/watch?v=97qoAXWLWNw)
+  - How To videos?: "Must Have Android Apps - July 2021⚡⚡" (https://www.youtube.com/watch?v=soCoitmgn8I)
   - Nextpit's Article "Our 5 free and paid Android/iOS applications of the week" (https://www.nextpit.com/free-and-paid-android-ios-applications-of-the-week)
 
 
