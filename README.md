@@ -28,7 +28,7 @@ Stackoverflow: https://stackoverflow.com/users/14906807/doj
 - https://jodiss-tri.medium.com/build-a-login-system-in-node-js-using-passport-js-and-mysql-52667cf3cc40
 
 #### My android app Disable Touch has been featured in :
-  - HowToMen : "Best Android Apps - July 2021!" (https://www.youtube.com/watch?v=hJhd89roZzE&t=58s)
+  - HowToMen : "Best Android Apps - July 2021!" (https://www.youtube.com/watch?v=40GBYPbTTrE)
   - Anubhav Roy: "10 AMAZING Android Apps You Need To Try//July 2021!" (https://www.youtube.com/watch?v=hJhd89roZzE&t=58s)
   - How To videos?: "Must Have Android Apps - July 2021⚡⚡" (https://www.youtube.com/watch?v=soCoitmgn8I)
   - VAXNET:"TOP 5 APPS"(https://www.youtube.com/watch?v=ab__9v2CGzw)
