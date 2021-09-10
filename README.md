@@ -24,12 +24,6 @@ Stackoverflow: https://stackoverflow.com/users/14906807/doj
   - Python
   
 
-### Medium Articles:
-- https://jodiss-tri.medium.com/build-a-login-system-in-node-js-using-passport-js-and-mysql-52667cf3cc40
-
-#### My android app Disable Touch has been featured in :
-  - HowToMen : "Best Android Apps - July 2021!" (https://www.youtube.com/watch?v=40GBYPbTTrE)
-  - Nextpit's Article "Our 5 free and paid Android/iOS applications of the week" (https://www.nextpit.com/free-and-paid-android-ios-applications-of-the-week)
 
 
 
