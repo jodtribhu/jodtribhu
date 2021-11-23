@@ -6,27 +6,6 @@
 - 👯 I’m looking to work on more Web Development Projects.
 - ⚡ Fun fact: I love to do 3d drawings.
 
-<h3 align="left">Contribution last month</h3>
-<hr>
-<p>
-  <img align="left" src="https://activity-graph.herokuapp.com/graph?username=jodtribhu&theme=xcode" alt="jodtribhu" />
-</p>
-<hr>
-<h1 align="center"> ----- </h1>
-<h3 align="left">Github Stats</h3>
-<hr>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jodtribhu&show_icons=true&theme=dark&locale=en&layout=compact" alt="jodtribhu" />
-   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jodtribhu&show_icons=true&theme=dark&locale=en" alt="jodtribhu" /></p>
-</p>
- 
-<hr>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jodtribhu&theme=highcontrast" alt="jodtribhu" />
-</p>
-
-<hr>
-
 ## 🚀 Languages and Tools
 
 ### 👉 Front-end
@@ -55,6 +34,28 @@
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> 
 </p>
+
+<hr>
+
+<h3 align="left">Contribution last month</h3>
+<hr>
+<p>
+  <img align="left" src="https://activity-graph.herokuapp.com/graph?username=jodtribhu&theme=xcode" alt="jodtribhu" />
+</p>
+<hr>
+<h1 align="center"> ----- </h1>
+<h3 align="left">Github Stats</h3>
+<hr>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jodtribhu&show_icons=true&theme=dark&locale=en&layout=compact" alt="jodtribhu" />
+   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jodtribhu&show_icons=true&theme=dark&locale=en" alt="jodtribhu" /></p>
+</p>
+ 
+<hr>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jodtribhu&theme=highcontrast" alt="jodtribhu" />
+</p>
+
 
 <hr>
 ### Connect with me:
