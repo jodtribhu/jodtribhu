@@ -37,14 +37,14 @@
 
 <hr>
 
-## ⚙️ Contribution last month
+## ⚙️ Github Stats
 
 <p>
   <img align="left" src="https://activity-graph.herokuapp.com/graph?username=jodtribhu&theme=xcode" alt="jodtribhu" />
 </p>
 <hr>
-<h1 align="center"> ----- </h1>
-<h3 align="left">Github Stats</h3>
+<h1 align="center"> </h1>
+
 <hr>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jodtribhu&show_icons=true&theme=dark&locale=en&layout=compact" alt="jodtribhu" />
