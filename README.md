@@ -1,8 +1,5 @@
-### Hi there, I'm Jodiss Tribhu  👋
-
-
-
 ![Header](https://github.com/AashimaAhuja/AashimaAhuja/blob/main/images/banner.png)
+### Hi there, I'm Jodiss Tribhu  👋
 
 ## I'm a Web and a Android Developer!
 - 🏫 I’m currently studying at Amrita Vishwa Vidyapeetham as a 4th Year Btech Computer Science student.
