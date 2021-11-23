@@ -2,7 +2,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jodtribhu" alt="jodtribhu" /></a> </p>
+![Header](https://github.com/AashimaAhuja/AashimaAhuja/blob/main/images/banner.png)
 
 ## I'm a Web and a Android Developer!
 - 🏫 I’m currently studying at Amrita Vishwa Vidyapeetham as a 4th Year Btech Computer Science student.
