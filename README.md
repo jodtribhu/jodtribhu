@@ -35,7 +35,7 @@
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> 
 </p>
 
-<hr>
+
 
 ## ⚙️ Github Stats
 
@@ -53,9 +53,9 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jodtribhu&theme=highcontrast" alt="jodtribhu" />
 </p>
 
-<hr>
 
-### Connect with me:
+
+## 🤝 Connect with me:
 
 <p align="left">
 <a href="https://www.linkedin.com/in/jodiss-tribhu-9676a8173/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jodisstribhu" height="30" width="40" /></a>
