@@ -35,16 +35,6 @@ Email: jodiss.tri@gmail.com
 <br />
 Stackoverflow: https://stackoverflow.com/users/14906807/doj
 
-### Languages and Tools:
-  - Vue.js
-  - Express.js
-  - Passport.js
-  - MongoDB
-  - MySQL
-  - Android Development(Java)
-  - JavaScript
-  - Java
-  - Python
   
 
 
