@@ -1,4 +1,5 @@
 ![Header](https://github.com/AashimaAhuja/AashimaAhuja/blob/main/images/banner.png)
+<img src="https://github-hero-readme.vercel.app/api?username=jodtribhu&linkedin=alok722&description=Sr.%20Student%20at%20Amrita%20|width='100%'">
 ### Hi there, I'm Jodiss Tribhu  👋
 
 ## I'm a Web and a Android Developer!
