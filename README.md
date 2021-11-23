@@ -15,6 +15,13 @@
   <img align="left" src="https://activity-graph.herokuapp.com/graph?username=jodtribhu&theme=xcode" alt="jodtribhu" />
 </p>
 
+<h3 align="left">Github Stats</h3>
+<hr>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jodtribhu&show_icons=true&theme=dark&locale=en&layout=compact" alt="jodtribhu" />
+</p>
+
+
 ### Connect with me:
 Linkedin: https://www.linkedin.com/in/jodiss-tribhu-9676a8173/
 <br />
