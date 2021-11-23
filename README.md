@@ -15,7 +15,7 @@
   <img align="left" src="https://activity-graph.herokuapp.com/graph?username=jodtribhu&theme=xcode" alt="jodtribhu" />
 </p>
 <hr>
-<hr>
+<h1 align="center"> ----- </h1>
 <h3 align="left">Github Stats</h3>
 <hr>
 <p>
