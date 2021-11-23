@@ -37,8 +37,8 @@
 
 <hr>
 
-<h3 align="left">Contribution last month</h3>
-<hr>
+## ⚙️ Contribution last month
+
 <p>
   <img align="left" src="https://activity-graph.herokuapp.com/graph?username=jodtribhu&theme=xcode" alt="jodtribhu" />
 </p>
@@ -58,7 +58,9 @@
 
 
 <hr>
+
 ### Connect with me:
+
 <p align="left">
 <a href="https://www.linkedin.com/in/jodiss-tribhu-9676a8173/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jodisstribhu" height="30" width="40" /></a>
 <a href=" https://stackoverflow.com/users/14906807/doj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
