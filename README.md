@@ -26,6 +26,7 @@
 </p>
 
 <hr>
+
 ## 🚀 Languages and Tools
 
 ### 👉 Front-end
