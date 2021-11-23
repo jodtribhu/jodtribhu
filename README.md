@@ -1,5 +1,7 @@
 ### Hi there, I'm Jodiss Tribhu  👋
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jodtribhu" alt="jodtribhu" /></a> </p>
+
 ## I'm a Web and a Android Developer!
 - 🏫 I’m currently studying at Amrita Vishwa Vidyapeetham as a 4th Year Btech Computer Science student.
 - 👯 I’m looking to work on more Web Development Projects.
