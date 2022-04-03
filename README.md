@@ -6,7 +6,7 @@
 - 👯 I’m looking to work on more Web Development Projects.
 - ⚡ Fun fact: I love to do 3d drawings.
 
-## 🚀 Languages and Tools
+<!-- ## 🚀 Languages and Tools
 
 ### 👉 Front-end
 <p>
@@ -34,12 +34,12 @@
 <p>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> 
-</p>
+</p> -->
 
 
 
-## ⚙️ Github Stats -->
-
+<!-- ## ⚙️ Github Stats --> -->
+<!-- 
 <p>
   <img align="left" src="https://activity-graph.herokuapp.com/graph?username=jodtribhu&theme=xcode" alt="jodtribhu" />
 </p>
@@ -54,7 +54,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jodtribhu&theme=highcontrast" alt="jodtribhu" />
 </p>
 
-
+ -->
 ## 🤝 Connect with me:
 
 <p align="left">
