@@ -6,7 +6,7 @@
 - 👯 I’m looking to work on more Web Development Projects.
 - ⚡ Fun fact: I love to do 3d drawings.
 
-<!-- ## 🚀 Languages and Tools
+## 🚀 Languages and Tools
 
 ### 👉 Front-end
 <p>
@@ -40,13 +40,13 @@
 
 ## ⚙️ Github Stats -->
 
-<!-- <p>
+<p>
   <img align="left" src="https://activity-graph.herokuapp.com/graph?username=jodtribhu&theme=xcode" alt="jodtribhu" />
 </p>
 <hr>
-<h1 align="center">---- </h1> -->
+<h1 align="center">---- </h1> 
 
-<!-- <p>
+<p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jodtribhu&show_icons=true&theme=dark&locale=en&layout=compact" alt="jodtribhu" />
    <p><img src="https://github-readme-stats.vercel.app/api?username=jodtribhu&show_icons=true&theme=dark&locale=en" alt="jodtribhu" /></p>
 </p>
@@ -54,7 +54,6 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jodtribhu&theme=highcontrast" alt="jodtribhu" />
 </p>
 
- -->
 
 ## 🤝 Connect with me:
 
